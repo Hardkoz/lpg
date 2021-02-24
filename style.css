@@ -3,3 +3,18 @@
 .image-fond{
     background-image: url('logo.png');
 }
+
+.menu{
+    display: flex;
+    flex-grow: 5;
+    justify-content: flex-end;
+}
+.tete{
+    display: flex;
+    flex-grow: 2;
+}
+
+.menu1{
+    display: flex;
+    
+}
